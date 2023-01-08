@@ -1,4 +1,19 @@
-A backend capstone project that contains the processes of my capstone project, contains the CRUD, medical certificate generator, and appointment feature that is connected to the frontend framework via API
+<p align = "center">
+<img src="https://user-images.githubusercontent.com/101308694/211189333-d36b4e09-1948-4a3b-8160-3d5ee3dba0fa.png" width="250" alt="accessibility text">
+</p>
+
+Hippo Campus - A clinic management system, the project name HippoCampus was derived from the Hippo Campus organ which is part of the limbic system and plays important roles in the consolidation of information from short-term memory to long-term memory such as the same feature of the HippoCampus project which stores medical data.
+
+A backend capstone project that contains the processes of the Hippo Campus project, contains the CRUD, medical certificate generator, and appointment feature that is connected to the frontend framework via API
+
+Download
+```sh
+git clone https://github.com/braincellsbyebye/capstonebackend.git
+```
+After Download, Install
+```sh
+composer install
+```
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
