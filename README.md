@@ -5,7 +5,9 @@
 Hippo Campus - A clinic management system, the project name HippoCampus was derived from the Hippo Campus organ which is part of the limbic system and plays important roles in the consolidation of information from short-term memory to long-term memory such as the same feature of the HippoCampus project which stores medical data.
 
 HippoCampus Front-End
+
 React Native - https://github.com/braincellsbyebye/reactnative-frontend
+
 React JS - https://github.com/braincellsbyebye/reactjs-frontend
 
 Features
