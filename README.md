@@ -4,7 +4,18 @@
 
 Hippo Campus - A clinic management system, the project name HippoCampus was derived from the Hippo Campus organ which is part of the limbic system and plays important roles in the consolidation of information from short-term memory to long-term memory such as the same feature of the HippoCampus project which stores medical data.
 
-A backend capstone project that contains the processes of the Hippo Campus project, contains the CRUD, medical certificate generator, and appointment feature that is connected to the frontend framework via API
+HippoCampus Front-End
+React Native - https://github.com/braincellsbyebye/reactnative-frontend
+React JS - https://github.com/braincellsbyebye/reactjs-frontend
+
+Features
+ - User Medical Data Management
+ - Contact Person Data Management
+ - Medical Record Management
+ - Medical Certificate Generator
+ - Medical Certificate Management
+ - User Account Creation
+ - Rest API
 
 Download
 ```sh
